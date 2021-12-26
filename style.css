@@ -48,7 +48,7 @@ section{
     background-attachment: fixed;
 }
 .main h2{
-    color: #fff;
+    color: black;
     font-size: 1.4em;
     font-weight: 500;
 }
@@ -60,7 +60,7 @@ section{
     font-weight: 600;
 }
 .main h3 {
-    color: #fff;
+    color: black;
     font-size: 2em;
     font-weight: 700;
     letter-spacing: 1px;
